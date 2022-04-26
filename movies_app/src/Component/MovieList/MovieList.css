@@ -1,0 +1,50 @@
+.mov-search {
+  padding-top: 1rem;
+}
+.mov-search h1 {
+  margin-bottom: 0rem;
+}
+.mov-search small {
+  color: mediumaquamarine;
+}
+
+.mov-search .m-s {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.m-s input {
+  width: 60vw;
+  height: 8vh;
+  margin-right: 0.3rem;
+  padding: 1rem 0rem 1rem 1rem;
+  border: 1px solid #cfcbcb;
+  border-radius: 5px;
+
+}
+
+.m-s select {
+  word-wrap: normal;
+  width: 12vw;
+  height: 8vh;
+  padding: 1rem;
+  color: grey;
+  margin-right: 0.3rem;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.m-s button {
+  width: 25vw;
+  height: 8vh;
+  border: none;
+  border-radius: 5px;
+  background-color: darkslategrey;
+  color: #fff;
+  font-weight: bolder;
+}
+
+.hide {
+  display: none;
+}

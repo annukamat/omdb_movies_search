@@ -1,0 +1,18 @@
+.m-r {
+    display: flex;
+    border: 1px solid #e5e5e5;
+    padding: 2rem;
+    border-radius: 5px;
+}
+.m-r-detail {
+    margin-left: 1rem;
+}
+.m-r p span{
+    font-weight: bold;
+}
+.mov-result .m-r-link span{
+    color: mediumaquamarine;
+}
+.mov-result .m-r-link span{
+    cursor: pointer;
+}
